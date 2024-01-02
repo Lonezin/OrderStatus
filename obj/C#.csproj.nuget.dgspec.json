@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lonez\\Desktop\\Garoto de programa\\C#\\C#.csproj": {}
+    "C:\\Users\\lonez\\Desktop\\Garoto de programa\\OrderStatus\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lonez\\Desktop\\Garoto de programa\\C#\\C#.csproj": {
+    "C:\\Users\\lonez\\Desktop\\Garoto de programa\\OrderStatus\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lonez\\Desktop\\Garoto de programa\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\lonez\\Desktop\\Garoto de programa\\OrderStatus\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\lonez\\Desktop\\Garoto de programa\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\lonez\\Desktop\\Garoto de programa\\OrderStatus\\C#.csproj",
         "packagesPath": "C:\\Users\\lonez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lonez\\Desktop\\Garoto de programa\\C#\\obj\\",
+        "outputPath": "C:\\Users\\lonez\\Desktop\\Garoto de programa\\OrderStatus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lonez\\AppData\\Roaming\\NuGet\\NuGet.Config"
